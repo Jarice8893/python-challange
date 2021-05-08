@@ -1,0 +1,597 @@
+Header: Date,Profit/Losses
+
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 116771.0
+Greatest Increase in Profits: Feb-2010 ($1
+Greatest Decrease in Profits: Feb-2010 ($1
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -272935.5
+Greatest Increase in Profits: Feb-2010 ($1
+Greatest Decrease in Profits: Mar-2010 ($2
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -312433.67
+Greatest Increase in Profits: Feb-2010 ($1
+Greatest Decrease in Profits: Mar-2010 ($2
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -139345.25
+Greatest Increase in Profits: May-2010 ($4
+Greatest Decrease in Profits: Mar-2010 ($2
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -69005.4
+Greatest Increase in Profits: May-2010 ($4
+Greatest Decrease in Profits: Mar-2010 ($2
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 27535.33
+Greatest Increase in Profits: Jul-2010 ($6
+Greatest Decrease in Profits: Mar-2010 ($2
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -37571.29
+Greatest Increase in Profits: Jul-2010 ($6
+Greatest Decrease in Profits: Mar-2010 ($2
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -135533.75
+Greatest Increase in Profits: Jul-2010 ($6
+Greatest Decrease in Profits: Sep-2010 ($8
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -43372.44
+Greatest Increase in Profits: Oct-2010 ($9
+Greatest Decrease in Profits: Sep-2010 ($8
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 2592.6
+Greatest Increase in Profits: Oct-2010 ($9
+Greatest Decrease in Profits: Sep-2010 ($8
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -86203.36
+Greatest Increase in Profits: Oct-2010 ($9
+Greatest Decrease in Profits: Dec-2010 ($11
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -7339.83
+Greatest Increase in Profits: Jan-2011 ($12
+Greatest Decrease in Profits: Dec-2010 ($11
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -92545.15
+Greatest Increase in Profits: Jan-2011 ($12
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -12145.64
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -4981.4
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -23925.88
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -16691.88
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -44730.83
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -10510.79
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 1601.1
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -1579.29
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -33449.14
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -24256.78
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -67643.75
+Greatest Increase in Profits: Mar-2011 ($14
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 12108.36
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -23657.54
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 10504.96
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -1808.14
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -10245.76
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -12039.4
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Feb-2011 ($13
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -60981.23
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -12275.69
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -2663.88
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -21285.56
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -9296.86
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -14126.42
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -14767.97
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -21055.37
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -10165.36
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -7557.02
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 112.1
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -1866.76
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 3071.12
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Aug-2012 ($31
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -46911.57
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -13308.6
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -33823.26
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 6012.28
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -3863.04
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -5102.61
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -875.72
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -5606.69
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -14135.0
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -7921.17
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -3309.69
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -1221.51
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 5334.98
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 1393.84
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -4986.48
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 2044.42
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 4530.52
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 2648.97
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -2908.89
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -22103.33
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -11082.25
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -12001.37
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -6734.77
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -405.39
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -4402.28
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -7765.46
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: 1737.36
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -1262.63
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -3026.17
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -26962.62
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -14092.3
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -1476.55
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -5554.93
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -2011.99
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -26047.19
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -3771.96
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -1242.92
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -9446.9
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -877.68
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -9721.64
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -8686.36
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -2315.12
+Greatest Increase in Profits: Feb-2012 ($25
+Greatest Decrease in Profits: Sep-2013 ($44
